@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 <h1>this is from anu</h1>
-=======
 <h1> hello this is from devops </h1>
->>>>>>> 26217c8 (updated)
