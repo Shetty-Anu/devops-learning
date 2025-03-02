@@ -13,7 +13,7 @@ pipeline{
         }
         stage("deploy"){
             steps{
-                echo 'echo"am deploying image in docker" '
+                echo 'echo"I am deploying image in docker" '
             }
         }
     }
