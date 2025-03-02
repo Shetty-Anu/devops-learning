@@ -16,6 +16,11 @@ pipeline{
                 echo 'echo"I am deploying image in kubernetes" '
             }
         }
+        stage("cpudetails"){
+            steps{
+                echo 'echo"cpudetails" '
+            }
+        }
     }
 }
 
